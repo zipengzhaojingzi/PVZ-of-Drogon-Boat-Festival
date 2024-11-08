@@ -1,0 +1,44 @@
+﻿  main.cpp
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(299,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(344,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(347,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(346,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(511,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(511,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(696,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(697,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(714,20): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(716,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(825,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(827,18): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(828,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(851,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(851,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(852,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(852,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(854,23): warning C4305: “=”: 从“double”到“float”截断
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(1559,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(1559,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(1579,38): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(1579,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(1596,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(1596,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\main.cpp(1831,14): warning C4244: “=”: 从“time_t”转换到“long double”，可能丢失数据
+  tools.cpp
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\tools.cpp(90,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  vector2.cpp
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\vector2.cpp(7,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\vector2.cpp(7,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\vector2.cpp(12,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\vector2.cpp(12,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\vector2.cpp(17,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\vector2.cpp(17,27): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\vector2.cpp(22,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\vector2.cpp(22,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\vector2.cpp(26,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\vector2.cpp(26,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\vector2.cpp(46,39): warning C4244: “return”: 从“double”转换到“__int64”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\vector2.cpp(51,37): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\我的植物大战僵尸212\vector2.cpp(51,19): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  我的植物大战僵尸212.vcxproj -> D:\20240523good day\2207310345赵梓鹏2203340204冯滢妮植物大战僵尸\PVZ of Drogon Boat Festival Lucky Zongzi\x64\Debug\我的植物大战僵尸212.exe
